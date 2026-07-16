@@ -1,31 +1,37 @@
 {
-  "hash": "69804aad",
+  "hash": "9abc822f",
   "configHash": "850e5920",
-  "lockfileHash": "73da7a59",
-  "browserHash": "6df8387e",
+  "lockfileHash": "7f8fba15",
+  "browserHash": "319dedec",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "024e5233",
+      "fileHash": "f81a169c",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "d38cf971",
+      "fileHash": "fdc91045",
       "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "f7c3541f",
+      "needsInterop": false
     },
     "lucide-react": {
       "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
       "file": "lucide-react.js",
-      "fileHash": "8d28012a",
+      "fileHash": "c2939163",
       "needsInterop": false
     },
     "recharts": {
       "src": "../../node_modules/recharts/es6/index.js",
       "file": "recharts.js",
-      "fileHash": "06055a07",
+      "fileHash": "6fe21756",
       "needsInterop": false
     }
   },
